@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(208, 252, 194);
+}.image1{
+    width: 300px;
+    height:300px;
+    border-radius: 150px;
+}.title1{
+    width:300px;
+    height:60px;
+    background-color: white;
+}p{
+    background-color: white;
+    width:270;
+}.btn1{
+    width: 150;
+    height: 40px; 
+    background-color: rgb(101, 183, 65);
+    color: white;
+    border-radius: 10px;
+}form{
+    background-color: white;
+    width: 350;
+}.btn2{
+    background-color: rgb(101, 183, 65);
+    color: white;
+    border-radius: 10px;
+    width: 250;
+    height: 40px;
+} .btn3{
+    background-color:rgb(101, 183, 65);
+    color: white;
+    border-radius: 10px;
+    width: 250;
+    height: 40px;
+}
